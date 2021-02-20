@@ -35,7 +35,7 @@
     "tinycon": "^0.6.8",
     "vue": "^2.6.11",
     "vue-virtual-scroller": "^1.0.4",
-    "whatwg-fetch": "^3.0.0",
+    "whatwg-fetch": "^3.4.0",
     "xhr": "^2.5.0"
   },
   "devDependencies": {
