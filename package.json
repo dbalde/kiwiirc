@@ -33,7 +33,7 @@
     "murmurhash3js": "^3.0.1",
     "strftime": "^0.10.0",
     "tinycon": "^0.6.8",
-    "vue": "^2.6.11",
+    "vue": "^2.6.12",
     "vue-virtual-scroller": "^1.0.4",
     "whatwg-fetch": "^3.0.0",
     "xhr": "^2.5.0"
